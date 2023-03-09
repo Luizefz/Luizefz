@@ -12,7 +12,7 @@ quase Cientista da Computação e futuro bacharel em Sistemas de Informação.
 
 Tenho um gigantesco interesse nas áreas de TI / Programação e desejo fazer disso a minha vida profissional.
 
-No momento, o Front-end toma conta do meu coração, mas estou sempre buscando diversificar meus conhecimentos em todas as áreas.
+No momento, o Front-end toma conta do meu coração. Estou estudando React.Js visando sempre o aperfeiçoamento dos meus códigos. 
 
 Vlw!! 💚
 
