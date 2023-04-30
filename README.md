@@ -3,6 +3,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -12,7 +13,7 @@ quase Cientista da Computação e futuro bacharel em Sistemas de Informação.
 
 Tenho um gigantesco interesse nas áreas de TI / Programação e desejo fazer disso a minha vida profissional.
 
-No momento o Front-end toma conta do meu coração. Estou estudando React.Js visando sempre o aperfeiçoamento dos meus códigos. 
+No momento o Front-end toma conta do meu coração. Estou estudando React.Js / Typescript visando sempre o aperfeiçoamento dos meus códigos. 
 
 Vlw!! 💚
 
